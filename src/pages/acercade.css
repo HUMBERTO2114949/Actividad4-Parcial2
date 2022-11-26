@@ -1,0 +1,20 @@
+.general
+{
+    margin: auto;
+}
+.separar
+{
+    width: 30%;
+    margin: 5%;
+}
+body
+{
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-attachment: fixed;
+}
+.linkslinks{
+    text-decoration: none;
+    color: black;
+}
